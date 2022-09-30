@@ -1,3 +1,5 @@
 hjhjj
 heello 
 welcome
+a=10
+b=45
