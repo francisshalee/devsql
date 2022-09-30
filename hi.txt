@@ -3,3 +3,5 @@ heello
 welcome
 a=35
 b=45
+c=10
+d=a+b+c;
